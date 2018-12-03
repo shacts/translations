@@ -27,17 +27,6 @@
 % --------------------------------------------------------------------------
 \ProvideDictionaryFor{German}{translations-basic-dictionary}
 
-\ProvideDictTranslation{invoice2-thousands-sep}{\,}
-\ProvideDictTranslation{invoice2-decimal-point}{,}
-\ProvideDictTranslation{invoice2-amount}{Anzahl}
-\ProvideDictTranslation{invoice2-item}{Posten}
-\ProvideDictTranslation{invoice2-vat}{USt}
-\ProvideDictTranslation{invoice2-unit-price}{St\"uckpreis}
-\ProvideDictTranslation{invoice2-price}{Preis}
-\ProvideDictTranslation{invoice2-net-total}{Nettobetrag}
-\ProvideDictTranslation{invoice2-vat-total}{USt}
-\ProvideDictTranslation{invoice2-gross-total}{Gesamtbetrag}
-
 \ProvideDictTranslation{Abstract}{Zusammenfassung}
 \ProvideDictTranslation{Addresses}{Adressen}
 \ProvideDictTranslation{addresses}{Adressen}
@@ -57,10 +46,15 @@
 \ProvideDictTranslation{chapter}{Kapitel}
 \ProvideDictTranslation{Conclusion}{Zusammenfassung}
 \ProvideDictTranslation{conclusion}{Zusammenfassung}
+\ProvideDictTranslation{Cover letter}{Anschreiben}
+\ProvideDictTranslation{cover letter}{Anschreiben}
 \ProvideDictTranslation{Contents}{Inhaltsverzeichnis}
 \ProvideDictTranslation{Continuation}{Fortsetzung}
 \ProvideDictTranslation{continuation}{Fortsetzung}
 \ProvideDictTranslation{cont}{Forts}
+\ProvideDictTranslation{data}{datos}
+\ProvideDictTranslation{Data}{Daten}
+\ProvideDictTranslation{data processing}{B\"{u}roanwendungen}
 \ProvideDictTranslation{encl (plural)}{Anlagen}
 \ProvideDictTranslation{encl (singular)}{Anlage}
 \ProvideDictTranslation{encl}{Anlage(n)}
@@ -74,6 +68,8 @@
 \ProvideDictTranslation{Index}{Index}
 \ProvideDictTranslation{Introduction}{Einleitung}
 \ProvideDictTranslation{introduction}{Einleitung}
+\ProvideDictTranslation{Invoice}{Rechnung}
+\ProvideDictTranslation{invoice}{Rechnung}
 \ProvideDictTranslation{List of Figures and Tables}{Abbildungs- und Tabellenverzeichnis}
 \ProvideDictTranslation{List of Figures}{Abbildungsverzeichnis}
 \ProvideDictTranslation{List of Tables}{Tabellenverzeichnis}
@@ -112,6 +108,7 @@
 \ProvideDictTranslation{Sketch of proofs}{Beweisskizzen}
 \ProvideDictTranslation{Sketch of Proof}{Beweisskizze}
 \ProvideDictTranslation{Sketch of proof}{Beweisskizze}
+\ProvideDictTranslation{Spain}{Spanien}
 \ProvideDictTranslation{Subsections}{Unterabschnitte}
 \ProvideDictTranslation{subsections}{Unterabschnitte}
 \ProvideDictTranslation{Subsection}{Unterabschnitt}
@@ -131,6 +128,17 @@
 \ProvideDictTranslation{Friday}{Freitag}
 \ProvideDictTranslation{Saturday}{Samstag}
 \ProvideDictTranslation{Sunday}{Sonntag}
+
+\ProvideDictTranslation{Hour}{Stunde}
+\ProvideDictTranslation{hour}{Stunde}
+\ProvideDictTranslation{Day}{Tag}
+\ProvideDictTranslation{day}{Tag}
+\ProvideDictTranslation{Week}{Woche}
+\ProvideDictTranslation{week}{Woche}
+\ProvideDictTranslation{Month}{Monat}
+\ProvideDictTranslation{month}{Monat}
+\ProvideDictTranslation{Year}{Jahr}
+\ProvideDictTranslation{year}{Jahr}
 
 \ProvideDictTranslation{January}{Januar}
 \ProvideDictTranslation{February}{Februar}

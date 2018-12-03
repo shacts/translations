@@ -27,13 +27,54 @@
 % --------------------------------------------------------------------------
 \ProvideDictionaryFor{Spanish}{translations-basic-dictionary}
 
+\ProvideDictTranslation{Level}{Nivel}
+\ProvideDictTranslation{level}{nivel}
+\ProvideDictTranslation{Hours}{Horas}
+\ProvideDictTranslation{hours}{horas}
+\ProvideDictTranslation{Hour}{Hora}
+\ProvideDictTranslation{hour}{hora}
+\ProvideDictTranslation{Group}{Grupo}
+\ProvideDictTranslation{group}{grupo}
+\ProvideDictTranslation{Course}{Curso}
+\ProvideDictTranslation{course}{curso}
+\ProvideDictTranslation{invoice2-thousands-sep}{\,}
+\ProvideDictTranslation{invoice2-decimal-point}{,}
+\ProvideDictTranslation{invoice2-amount}{Cantidad}
+\ProvideDictTranslation{invoice2-item}{\'Item}
+\ProvideDictTranslation{invoice2-vat}{IVA}
+\ProvideDictTranslation{invoice2-unit-price}{Precio por \'Item}
+\ProvideDictTranslation{invoice2-price}{Precio}
+\ProvideDictTranslation{invoice2-net-total}{Importe Neto}
+\ProvideDictTranslation{invoice2-vat-total}{IVA}
+\ProvideDictTranslation{invoice2-gross-total}{Importe Total}
+\ProvideDictTranslation{invoice2-income-tax}{Retenci\'{o}n del IRPF}
+\ProvideDictTranslation{payoff}{Paga}
+\ProvideDictTranslation{classes}{clases}
+\ProvideDictTranslation{classes}{clases}
+\ProvideDictTranslation{income tax}{Retenci\'{o}n del IRPF}
+\ProvideDictTranslation{Kind regards}{Atentamente}
+\ProvideDictTranslation{Thank you very much!}{Muchas Gracias!}
+\ProvideDictTranslation{of}{de}
+\ProvideDictTranslation{Bank Account}{Cuenta Bancaria}
+\ProvideDictTranslation{bank account}{cuenta bancaria}
+\ProvideDictTranslation{and}{y}
+\ProvideDictTranslation{Cover letter}{Carta de presentac\'{o}n}
+\ProvideDictTranslation{cover letter}{carta de presentac\'{o}n}
+\ProvideDictTranslation{data processing}{Ofim\'{a}tica}
+\ProvideDictTranslation{english}{ingl\'es}
+\ProvideDictTranslation{English}{Ingl\'es}
+\ProvideDictTranslation{Invoice}{Factura}
+\ProvideDictTranslation{invoice}{factura}
+\ProvideDictTranslation{To}{Hasta}
+\ProvideDictTranslation{to}{hasta}
+\ProvideDictTranslation{Period}{Per\'iodo}
+\ProvideDictTranslation{period}{per\'iodo}
 
 \ProvideDictTranslation{Abstract}{Resumen}
 \ProvideDictTranslation{Addresses}{Direcciones}
 \ProvideDictTranslation{addresses}{direcciones}
 \ProvideDictTranslation{Address}{Direcci\'{o}n}
-\ProvideDictTranslation{address}{direcci\'{o}n}
-\ProvideDictTranslation{and}{y}
+\ProvideDictTranslation{address}{direcci\'{o}n
 \ProvideDictTranslation{Appendix}{Ap\'{e}ndice}
 \ProvideDictTranslation{Authors}{Autores}
 \ProvideDictTranslation{authors}{autores}
@@ -51,6 +92,8 @@
 \ProvideDictTranslation{Continuation}{Continuaci\'{o}n}
 \ProvideDictTranslation{continuation}{continuaci\'{o}n}
 \ProvideDictTranslation{cont}{cont}
+\ProvideDictTranslation{data}{datos}
+\ProvideDictTranslation{Data}{Datos}
 \ProvideDictTranslation{encl (plural)}{adj.}
 \ProvideDictTranslation{encl (singular)}{adj.}
 \ProvideDictTranslation{encl}{adj.}
@@ -62,6 +105,8 @@
 \ProvideDictTranslation{from}{desde}
 \ProvideDictTranslation{Glossary}{Glosario}
 \ProvideDictTranslation{Index}{\'{I}ndice}
+\ProvideDictTranslation{Item}{\'{I}tem}
+\ProvideDictTranslation{item}{\'{i}tem}
 \ProvideDictTranslation{Introduction}{Introducci\'{o}n}
 \ProvideDictTranslation{introduction}{introducci\'{o}n}
 \ProvideDictTranslation{List of Figures and Tables}{Lista de Figuras y Tablas}
@@ -102,6 +147,7 @@
 \ProvideDictTranslation{Sketch of proofs}{Esbozo de demostraciones}
 \ProvideDictTranslation{Sketch of Proof}{Esbozo de Demostraci\'{o}n}
 \ProvideDictTranslation{Sketch of proof}{Esbozo de demostraci\'{o}n}
+\ProvideDictTranslation{Spain}{Espa\~na}
 \ProvideDictTranslation{Subsections}{Subsecciones}
 \ProvideDictTranslation{subsections}{subsecciones}
 \ProvideDictTranslation{Subsection}{Subsecci\'{o}n}
@@ -111,8 +157,6 @@
 \ProvideDictTranslation{tables}{tablas}
 \ProvideDictTranslation{Table}{Tabla}
 \ProvideDictTranslation{table}{tabla}
-\ProvideDictTranslation{To}{Hasta}
-\ProvideDictTranslation{to}{hasta}
 
 \ProvideDictTranslation{Monday}{Lunes}
 \ProvideDictTranslation{Tuesday}{Martes}
@@ -121,6 +165,17 @@
 \ProvideDictTranslation{Friday}{Viernes}
 \ProvideDictTranslation{Saturday}{S\'{a}bado}
 \ProvideDictTranslation{Sunday}{Domingo}
+
+\ProvideDictTranslation{Hour}{Hora}
+\ProvideDictTranslation{hour}{hora}
+\ProvideDictTranslation{Day}{D\'{i}a}
+\ProvideDictTranslation{day}{d\'{i}a}
+\ProvideDictTranslation{Week}{Semana}
+\ProvideDictTranslation{week}{semana}
+\ProvideDictTranslation{Month}{Mes}
+\ProvideDictTranslation{month}{mes}
+\ProvideDictTranslation{Year}{A\~no}
+\ProvideDictTranslation{year}{a\~no}
 
 \ProvideDictTranslation{January}{Enero}
 \ProvideDictTranslation{February}{Febrero}
@@ -134,4 +189,3 @@
 \ProvideDictTranslation{October}{Octubre}
 \ProvideDictTranslation{November}{Noviembre}
 \ProvideDictTranslation{December}{Diciembre}
-

@@ -27,6 +27,17 @@
 % --------------------------------------------------------------------------
 \ProvideDictionaryFor{English}{translations-basic-dictionary}
 
+\ProvideDictTranslation{invoice2-thousands-sep}{\,}
+\ProvideDictTranslation{invoice2-decimal-point}{.}
+\ProvideDictTranslation{invoice2-amount}{Amount}
+\ProvideDictTranslation{invoice2-item}{Item}
+\ProvideDictTranslation{invoice2-vat}{VAT}
+\ProvideDictTranslation{invoice2-unit-price}{Unit~Price}
+\ProvideDictTranslation{invoice2-price}{Price}
+\ProvideDictTranslation{invoice2-net-total}{Net~Total}
+\ProvideDictTranslation{invoice2-vat-total}{VAT}
+\ProvideDictTranslation{invoice2-gross-total}{Gross~Total}
+
 \ProvideDictTranslation{Abstract}{Abstract}
 \ProvideDictTranslation{Addresses}{Addresses}
 \ProvideDictTranslation{addresses}{addresses}
