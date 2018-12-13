@@ -27,6 +27,7 @@
 % --------------------------------------------------------------------------
 \ProvideDictionaryFor{German}{translations-basic-dictionary}
 
+\ProvideDictTranslation{Managing Director}{Gesch\"aftsf\"uhrer}
 \ProvideDictTranslation{Abstract}{Zusammenfassung}
 \ProvideDictTranslation{Addresses}{Adressen}
 \ProvideDictTranslation{addresses}{Adressen}
