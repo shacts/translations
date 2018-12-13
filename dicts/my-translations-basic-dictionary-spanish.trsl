@@ -27,6 +27,8 @@
 % --------------------------------------------------------------------------
 \ProvideDictionaryFor{Spanish}{translations-basic-dictionary}
 
+\ProvideDictTranslation{Managing Director}{Director Gerente}
+\ProvideDictTranslation{Managing Director}{director gerente}
 \ProvideDictTranslation{Subject}{Asunto}
 \ProvideDictTranslation{subject}{asunto}
 \ProvideDictTranslation{Level}{Nivel}
