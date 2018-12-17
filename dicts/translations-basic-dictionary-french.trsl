@@ -26,6 +26,70 @@
 % feel free to contact me.
 % --------------------------------------------------------------------------
 \ProvideDictionaryFor{French}{translations-basic-dictionary}
+\ProvideDictTranslation{}{banque de données}
+\ProvideDictTranslation{}{page d'accueil}
+\ProvideDictTranslation{}{clavier}
+\ProvideDictTranslation{}{application Windows}
+\ProvideDictTranslation{}{adresse e-mail}
+\ProvideDictTranslation{spamming}{arrosage}
+\ProvideDictTranslation{software}{logiciel}
+\ProvideDictTranslation{}{internaute}
+\ProvideDictTranslation{}{curseur}
+\ProvideDictTranslation{link}{lien}
+\ProvideDictTranslation{}{bouton de la souris}
+\ProvideDictTranslation{}{souris}
+\ProvideDictTranslation{}{bouton}
+\ProvideDictTranslation{headset}{casque micro}
+\ProvideDictTranslation{}{barre d'outils}
+\ProvideDictTranslation{browser}{browser}
+\ProvideDictTranslation{}{écran de veille}
+\ProvideDictTranslation{}{barre des tâches}
+\ProvideDictTranslation{data}{données}
+\ProvideDictTranslation{tag}{balise}
+\ProvideDictTranslation{learning software}{didacticiel}
+\ProvideDictTranslation{USB-Stick}{clé USB}
+\ProvideDictTranslation{}{barre de lancement rapide}
+\ProvideDictTranslation{delete}{supprimer}
+\ProvideDictTranslation{hard disc}{disque dur}
+\ProvideDictTranslation{}{abandonner}
+\ProvideDictTranslation{online}{en ligne}
+\ProvideDictTranslation{}{chercheur Web}
+\ProvideDictTranslation{motherboard}{carte mère}
+\ProvideDictTranslation{}{chargeur d'accus}
+\ProvideDictTranslation{bug}{bogue}
+\ProvideDictTranslation{}{combinaison de touches}
+\ProvideDictTranslation{@-symbol}{arobas}
+\ProvideDictTranslation{screenshot}{capture d'écran}
+
+\ProvideDictTranslation{}{capitaine}
+\ProvideDictTranslation{}{entraîneur}
+\ProvideDictTranslation{}{arrière}
+\ProvideDictTranslation{}{ailier}
+\ProvideDictTranslation{}{plongée}
+\ProvideDictTranslation{}{défenseur}
+\ProvideDictTranslation{}{corner}
+\ProvideDictTranslation{beach-volleyball}{beach-volley}
+\ProvideDictTranslation{}{penalty}
+\ProvideDictTranslation{goal}{but}
+\ProvideDictTranslation{}{coureur cycliste}
+\ProvideDictTranslation{}{banc de touche}
+\ProvideDictTranslation{}{exclusion}
+\ProvideDictTranslation{}{supporter}
+\ProvideDictTranslation{attack}{centre}
+\ProvideDictTranslation{}{arbitre}
+\ProvideDictTranslation{}{arbitre assistant}
+\ProvideDictTranslation{}{dopage}
+\ProvideDictTranslation{}{chausette}
+\ProvideDictTranslation{}{attaquant}
+\ProvideDictTranslation{}{athlétisme}
+\ProvideDictTranslation{}{coup franc}
+\ProvideDictTranslation{}{coquille}
+\ProvideDictTranslation{brassard}{brassard}
+\ProvideDictTranslation{}{brasse}
+\ProvideDictTranslation{}{brasse papillon}
+\ProvideDictTranslation{team}{équipe}
+\ProvideDictTranslation{kickoff}{signal du coup d'envoi}
+\ProvideDictTranslation{flag}{drapeau}
 
 \ProvideDictTranslation{Abstract}{R\'{e}sum\'{e}}
 \ProvideDictTranslation{Addresses}{Adresses}
